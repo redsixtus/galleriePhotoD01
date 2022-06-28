@@ -8,7 +8,7 @@ const routes: Routes = [
     component: Tab2Page,
   }
 ];
-
+/**blabla */
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
